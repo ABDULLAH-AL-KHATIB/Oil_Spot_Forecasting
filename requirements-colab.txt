@@ -1,0 +1,12 @@
+# Core requirements for the supplied Colab notebook
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+statsmodels>=0.14
+scikit-learn>=1.5
+xgboost>=2.0
+matplotlib>=3.8
+requests>=2.31
+python-docx>=1.1
+Pillow>=10.0
+# Google Colab supplies Jupyter/IPython and the `google.colab` package.
